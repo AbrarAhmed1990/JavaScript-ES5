@@ -129,5 +129,32 @@
 // document.write("<h1>Marks Sheet</h1><br><br>","Total marks :",
 // a,"<br> Marks obtained :",b,"<br> Percentage :",b/a*100,"%")
 
+// Q NO : 9
+
+// var USD = 104.80 , SAR = 28 ;
+// var PKR = 1 ;
+
+// document.write("<h1>Currency in PKR</h1>","Total Currency in PKR:",USD*10+SAR*25);
+
+// Q NO : 10
+
+// var a = 15 ;
+// var a = a+5*10/2 ;
+
+// document.write(a)
+
+// Q NO : 11
+
+// var bYear = 1992 , cYear = 2016 ;
+
+// document.write("<h1>Age Calculator</h1>","<br><br>Current Year:",cYear,
+// "<br>Birth Year:",bYear,"<br>Your age is:",cYear-bYear)
+
+// Q NO : 11
+
+// var r = 20 ; 
+// document.write("<h1> The Geometrizer </h1> <br> Radius of a circle is:",r,
+// "<br>The circumference is:",2*3.142*20,"<br>The Area is:",3.142*20*20)
+
 
 // <-------- CHAPTER NO 5 END---------->
